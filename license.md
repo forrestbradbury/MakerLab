@@ -4,14 +4,14 @@
 
 Everyone is free to reuse or adapt the materials under the conditions that they give appropriate attribution, do not use them nor derivatives of them for commercial purposes, and that any distributed or re-published adaptations are given the same Creative Commons License.
 
-
 #  Attribution
 
-DOI:  (zenodo, in preparation)
+The definitive master list of course materials is hosted on GITHUB:
+https://github.com/forrestbradbury/MakerLab
 
 Forrest Bradbury (https://orcid.org/0000-0001-8412-4091) of Amsterdam University College is responsible for this repository and can be reached by email:  forrestbradbury ("AT") gmail.com
 
 
 #  Acknowledgements
 
-redirect to readme
+Acknowledgements are found in the [README file](README.md)

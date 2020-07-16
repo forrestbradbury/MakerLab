@@ -5,14 +5,18 @@ This collection of materials supports open-inquiry physical science experiments 
 
 ## Understanding science through doing science
 
-By leveraging the modern and open-source resources of the Maker movement, students are empowered to design and conduct authentic high level scientific inquiries at home in flipped-classroom style lab courses (or course components).  By focusing learning goals on the process of conducting experimental research, the activities supported by these materials lower barriers to citizen science and simultaneously engender fuller appreciation for professional scientific endeavors.
+**Empowerment:** By leveraging the modern and open-source resources of the Maker movement, students are empowered to design and conduct authentic high level scientific inquiries at home in flipped-classroom style lab courses (or course components).  
+
+**Science Outreach & Advocacy:** By focusing learning goals on the process of conducting experimental research, the activities supported by these materials lower barriers to citizen science and simultaneously engender fuller appreciation for professional scientific endeavors.
 
 ## Downloading materials
 
-While it is encouraged to fork and reshare adaptations of these materials on github, we realize that many people may just want a zipped folder of this repository's collection.  The latest accepted versions of the master directory can be obtained using this link:    
+Those interested in adopting and adapting materials are encouraged to get in touch!  If there is interest, an online community will be initiated to support adaptations ("faculty online learning community"), and any reshared extensions & improvements of this material will benefit everyone.
+
+While it is encouraged to fork and reshare adaptations of these materials on GITHUB, we realize that many people may just want a zipped folder of this repository's collection.  The latest accepted versions of the master directory (in a single zip file) can be obtained using this link:    
 http://github.com/forrestbradbury/MakerLab/archive/master.zip
 
-For further information about reusing the materials, please read the license description.  Forrest Bradbury (https://orcid.org/0000-0001-8412-4091) of Amsterdam University College is responsible for this repository and can be reached by email:  forrestbradbury ("AT") gmail.com
+For information about reusing the materials, please read the license description ([license.md](license.md)).  Forrest Bradbury (https://orcid.org/0000-0001-8412-4091) of Amsterdam University College is responsible for this repository and can be reached by email:  forrestbradbury ("AT") gmail.com .  
 
 ## Overview and description
 
@@ -20,7 +24,7 @@ The first published set of these materials has been designed to support a full p
 
 Besides this README document and the license file, this repository consists of the following subdirectories:
 
-- [JN_LecNs-Templates-StrExps](../MakerLab/master/JN_LecNs-Templates-StrExps):  Jupyter Notebook documents, including:
+- [JN_LecNs-Templates-StrExps](JN_LecNs-Templates-StrExps):  Jupyter Notebook documents, including:
   - Lecture Notes covering:
     - introductions to Jupyter Notebooks, Markdown, and Python programming
     - uncertainty analysis, curve fitting, and Fourier transforms
@@ -31,21 +35,17 @@ Besides this README document and the license file, this repository consists of t
     - open-inquiry project pre-proposal
     - open-inquiry project Lab Journal
   - Folders for data and images used in the above documents
-- [equipment-list-options](../MakerLab/master/equipment-list-options):  spreadsheet giving suggested options for sets of course equipment
-- [grading-forms](../MakerLab/master/grading-forms):  assessment forms for four course assignments (currently in Microsoft Word format)
-- [instructor-materials](../MakerLab/master/instructor-materials):  materials that may help in adapting these materials, including:
+- [equipment-list-options](equipment-list-options):  spreadsheet giving suggested options for sets of course equipment
+- [grading-forms](grading-forms):  assessment forms for four course assignments (currently in Microsoft Word format)
+- [instructor-materials](instructor-materials):  materials that may help in adapting these materials, including:
   - example schedule for a full course (168 hours of student work time)
   - untested example schedule for a smaller course component (60-80 hours of student work time)
   - some other recommendations
-- [video_lectures-presentations](../MakerLab/master/video_lectures-presentations):  links to videos, including:
+- [video_lectures-presentations](video_lectures-presentations):  links to videos, including:
   - lectures for students
-  - presentation(s) on course methods & results
-- [todo-list](../MakerLab/master/todo-list):  a "to do" list for ideas of expanding and improving the materials (which is parallel and probably not synchronized with the github repository development)
-
-
-## License
-
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.  Everyone is free to reuse or adapt the materials under the conditions that they give appropriate attribution, do not use them nor derivatives of them for commercial purposes, and that any distributed or re-published adaptations are given the same Creative Commons License.
+  - conference presentation(s) on course methods & results
+  - online 3rd party videos related to the Maker movement
+- [todo-list](todo-list):  a "to do" list for ideas of expanding and improving the materials (which is parallel and probably not synchronized with the GITHUB repository development)
 
 
 ## Acknowledgements
@@ -54,7 +54,7 @@ The original Maker Lab pilot course at Amsterdam University College (AUC) was fu
 
 Also importantly, Gary Steele (TU Delft), Jan Koetsier (AUC), and David Fokkema (UvA) assisted with the Jupyter Notebook lecture notes.  The four lecture note documents which introduce Python programming all include significant material, structure, and inspiration from documents in Gary's "Introduction to Python for Physicists" (https://gitlab.tudelft.nl/python-for-applied-physics/practicum-lecture-notes).  Jan is largely to thank for the adaptation and extension of Gary's materials for Maker Lab students.  David provided feedback and superior methods in the document on curve fitting.
 
-Saalih Allie, Andy Buffler, Dale Taylor, and Nuraan Majiet from the University of Cape Town all helped steer the Maker Lab course design through conversations and sharing best practices.  Additionally, the document on uncertainty analysis draws inspiration and some nice figures from UCT's "Introduction to Measurement in the Physics Laboratory:  A probabilistic approach" by Buffler, Allie, Lubben, and Campbell.
+Saalih Allie, Andy Buffler, Dale Taylor, and Nuraan Majiet from the University of Cape Town (UCT) all helped steer the Maker Lab course design through conversations and sharing best practices.  Additionally, the document on uncertainty analysis draws inspiration and some nice figures from UCT's "Introduction to Measurement in the Physics Laboratory:  A probabilistic approach" by Buffler, Allie, Lubben, and Campbell.
 
 Finally, conversations with Jean J. Heremans and Thomas O’Donnell from Virginia Tech helped in better understanding how these course methods might be applied in dedicated advanced physics labs.
 
