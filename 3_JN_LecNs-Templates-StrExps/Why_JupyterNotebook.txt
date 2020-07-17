@@ -1,0 +1,9 @@
+Why use Jupyter Notebook?
+
+First and foremost, the files allow Maker Lab students to read about data analysis and do data analysis within the same document.  This same functionality enables students' written submissions to transparently show their data analysis & results.
+
+Second, Python libraries ("modules") for data analysis are popular amongst researchers, freely available, and powerful.
+
+Of course it presents a small hurdle for students and instructors who don't yet know Python or the Markdown text formatting language.  But this collection gives introductions and many plug-and-play examples to make it easy to start working with Jupyter Notebook.  There were many students in the pilot AUC Maker Lab course who did not know any Python at the beginning of the course, but were later happy to have picked it up along the way.
+
+Please note:  the directory structure inherited from the GitHub repository should be maintained so that your Jupyter Notebook files can find their needed data and image files in the respective sub-directories.
