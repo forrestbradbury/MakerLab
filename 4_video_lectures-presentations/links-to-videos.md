@@ -9,6 +9,12 @@ Lectures for students & Conference presentations by Forrest Bradbury can be foun
 
 https://surfdrive.surf.nl/files/index.php/s/3cEUEWPgjDZ2c9n
 
+## Thierry's videos:
+
+Guest lectures by Thierry Slot on Maker methods used in his scientific research can be found here:
+
+https://surfdrive.surf.nl/files/index.php/s/KRtUSMyS8d3mGra
+
 
 ## Online 3rd party videos related to the Maker movement:
 

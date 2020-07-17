@@ -1,7 +1,7 @@
 # MakerLab
  course materials for supporting scientific open inquiries with sensors and microcontrollers
 
-This collection of materials supports open-inquiry physical science experiments in Bachelor's level lab courses.  Their open-source publication has been expedited because they serve as a model for pandemic-resilient science labs (https://arxiv.org/abs/2006.06881).  A majority of the materials have been written as Jupyter Notebook documents and other text-based formats, lending themselves to further collaborative development, adaptation, and expansion within this git repository.  
+This collection of materials supports open-inquiry physical science experiments in Bachelor's level lab courses.  Their open-source publication has been expedited because they serve as a model for pandemic-resilient science labs (https://arxiv.org/abs/2006.06881).  Most of the materials have been written as Jupyter Notebook documents and other text-based formats, lending themselves to further collaborative development, adaptation, and expansion within this git repository.  
 
 ## Understanding science through doing science
 
@@ -24,8 +24,14 @@ The first published set of these materials has been designed to support a full p
 
 Besides this README document and the license file, this repository consists of the following subdirectories:
 
-- [JN_LecNs-Templates-StrExps](JN_LecNs-Templates-StrExps):  Jupyter Notebook documents, including:
+- [1_instructor-materials](1_instructor-materials):  materials for helping instructors in adapting these methods, including:
+  - "tips_for_instructors" - tips for adoption and adaptation
+  - "AUC_course_manual" - course description and example schedule for a full course (168 hours of student work time)
+  - "short_open_inquiry" - untested example schedule for a smaller course component (55-80 hours of student work time)
+- [2_equipment-list-options](2_equipment-list-options):  spreadsheet giving suggested options for sets of course equipment
+- [3_JN_LecNs-Templates-StrExps](3_JN_LecNs-Templates-StrExps):  Jupyter Notebook documents, including:
   - Lecture Notes covering:
+    - the empirical research process
     - introductions to Jupyter Notebooks, Markdown, and Python programming
     - uncertainty analysis, curve fitting, and Fourier transforms
   - Structured experiment instructions:
@@ -35,17 +41,12 @@ Besides this README document and the license file, this repository consists of t
     - open-inquiry project pre-proposal
     - open-inquiry project Lab Journal
   - Folders for data and images used in the above documents
-- [equipment-list-options](equipment-list-options):  spreadsheet giving suggested options for sets of course equipment
-- [grading-forms](grading-forms):  assessment forms for four course assignments (currently in Microsoft Word format)
-- [instructor-materials](instructor-materials):  materials that may help in adapting these materials, including:
-  - example schedule for a full course (168 hours of student work time)
-  - untested example schedule for a smaller course component (60-80 hours of student work time)
-  - some other recommendations
-- [video_lectures-presentations](video_lectures-presentations):  links to videos, including:
+- [4_video_lectures-presentations](4_video_lectures-presentations):  links to videos, including:
   - lectures for students
   - conference presentation(s) on course methods & results
   - online 3rd party videos related to the Maker movement
-- [todo-list](todo-list):  a "to do" list for ideas of expanding and improving the materials (which is parallel and probably not synchronized with the GITHUB repository development)
+- [5_grading-forms](5_grading-forms):  assessment forms for four course assignments (currently in Microsoft Word format)
+- [6_todo-list](6_todo-list):  a "to do" list for ideas of expanding and improving the materials (which is parallel and probably not synchronized with the GITHUB repository development)
 
 
 ## Acknowledgements
@@ -55,6 +56,8 @@ The original Maker Lab pilot course at Amsterdam University College (AUC) was fu
 Also importantly, Gary Steele (TU Delft), Jan Koetsier (AUC), and David Fokkema (UvA) assisted with the Jupyter Notebook lecture notes.  The four lecture note documents which introduce Python programming all include significant material, structure, and inspiration from documents in Gary's "Introduction to Python for Physicists" (https://gitlab.tudelft.nl/python-for-applied-physics/practicum-lecture-notes).  Jan is largely to thank for the adaptation and extension of Gary's materials for Maker Lab students.  David provided feedback and superior methods in the document on curve fitting.
 
 Saalih Allie, Andy Buffler, Dale Taylor, and Nuraan Majiet from the University of Cape Town (UCT) all helped steer the Maker Lab course design through conversations and sharing best practices.  Additionally, the document on uncertainty analysis draws inspiration and some nice figures from UCT's "Introduction to Measurement in the Physics Laboratory:  A probabilistic approach" by Buffler, Allie, Lubben, and Campbell.
+
+The Maker Lab leans heavily on Maker resources and communities from across the globe, though a few specific people deserve special recognition.  Especially useful were lengthy conversations about Maker education with Felix Holm of Maker Station in Cape Town and Chris Julien and Henk Buursen (including an awesome FabLab tour from Henk) from the Amsterdam Waag Society.  And, Thierry Slot of the Universiteit van Amsterdam delivered an inspiring guest lecture which was highly appreciated by the Maker Lab students on his scientific research enabled by Maker methods (described briefly here:  https://youtu.be/vwsZGp8XRaU).
 
 Finally, conversations with Jean J. Heremans and Thomas O’Donnell from Virginia Tech helped in better understanding how these course methods might be applied in dedicated advanced physics labs.
 
