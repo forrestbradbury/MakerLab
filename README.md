@@ -59,6 +59,6 @@ Saalih Allie, Andy Buffler, Dale Taylor, and Nuraan Majiet from the University o
 
 The Maker Lab leans heavily on Maker resources and communities from across the globe, though a few specific people deserve special recognition.  Especially useful were lengthy conversations about Maker education with Felix Holm of Maker Station in Cape Town, Chris Julien and Henk Buursen (including an awesome FabLab tour from Henk) from the Amsterdam Waag Society, and some Maker friends Kuni Cherenack, Troy Nachtigall, Martin Bruggink, and Bram de Kruijff.  Further, Thierry Slot of the Universiteit van Amsterdam delivered an inspiring guest lecture which was highly appreciated by the Maker Lab students on his scientific research enabled by Maker methods (described briefly here:  https://youtu.be/vwsZGp8XRaU).
 
-Finally, conversations with Jean J. Heremans and Thomas O’Donnell from Virginia Tech helped in better understanding how these course methods might be applied in dedicated advanced physics labs.
+Recently, conversations with Jean J. Heremans and Thomas O’Donnell from Virginia Tech helped in better understanding how these course methods might be applied in dedicated advanced physics labs.
 
-Additional contributors (either via this git repository, or otherwise) are encouraged to suggest a shout-out here!
+Finally, the pilot course AUC students deserve a big shout out.  Every last one of them persevered through the stress and uncertainty of the pandemic to successfully complete two open-inquiry projects and pass the course.  Their dedication and energy were critical for the success of the pilot and proved that experimental lab courses can succeed and shine - even in such challenging circumstances - simply by supporting students' own project ideas.
