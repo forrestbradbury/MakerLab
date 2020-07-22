@@ -1,0 +1,15 @@
+# Installing and getting started with Jupyter Notebok & Python
+
+Much of the Maker Lab course materials and assignments are given and accepted as Jupyter Notebook files.   These enable a combination of formatted word processing (using Markdown) and programming and data visualization (using the Python programming language).  If you have never used Jupyter Notebook nor done any programming:  congratulations!, because you're about to start a course component where you can learn.  The first step is installing Python and Jupyter Notebook on your computer:
+
+- Download Anaconda [https://www.anaconda.com/products/individual ]. We recommend downloading Anaconda’s latest Python 3 version (currently Python 3.7).
+
+- Install the version of Anaconda which you downloaded, following the instructions on the download page.  (this can take awhile)
+
+- You have installed Jupyter Notebook as part of the Anaconda package.  To run it, either find & click the Jupyter Notebook program icon or open up an Anaconda Prompt (also added to your computer's programs) and type the following and press enter:   "jupyter notebook"
+
+- The Jupyter Notebook runs via your default internet browser, and displays the home directory where you can create - or upload and open - and run the Jupyter Notebook files (.ipynb extensions).  
+
+- To easily access the relevant Maker Lab course materials, you can move the relevant folder "3_JN_LecNs-Templates-StrExps" and all its contents to your Jupyter Notebook home directory.  The default home (aka "root") directory is something like:  C:\Users\your-user-name , but directions are provided for changing this:
+
+- To get started, the included Jupyter Notebook files "LN1_JupyterNotebook-and-Markdown.ipynb" and "LN2_Python_I.ipynb" give introductions to Jupyter Notebook's Markdown and Python cells.
