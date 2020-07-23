@@ -5,13 +5,15 @@ This collection of materials supports open-inquiry physical science experiments 
 
 ## Understanding science through doing science
 
-**Empowerment:** By leveraging the modern and open-source resources of the Maker movement, students are empowered to design and conduct authentic high level scientific inquiries at home in flipped-classroom style lab courses (or course components).  
+**Empowerment:** By leveraging the modern and open-source resources of the Maker movement, students are empowered to design and conduct authentic high level scientific inquiries at home in flipped-classroom style lab projects.  
 
 **Science Outreach & Advocacy:** By focusing learning goals on the process of conducting experimental research, the activities supported by these materials lower barriers to citizen science and simultaneously engender fuller appreciation for professional scientific endeavors.
 
+The "[Why_Open_Flipped_andArduinos.md](Why_Open_Flipped_andArduinos.md)" document gives a fuller motivation for the Maker Lab course methods.  
+
 ## Downloading materials
 
-Those interested in adopting and adapting materials are encouraged to get in touch!  If there is interest, an online community will be initiated to support adaptations ("faculty online learning community"), and any reshared extensions & improvements of this material will benefit everyone.
+Those interested in adopting and adapting materials are encouraged to get in touch!  If there is interest, a "faculty online learning community" will be initiated to support adaptations, and any reshared extensions & improvements of this material will benefit everyone.
 
 While it is encouraged to fork and reshare adaptations of these materials on GITHUB, we realize that many people may just want a zipped folder of this repository's collection.  The latest accepted versions of the master directory (in a single zip file) can be obtained using this link:    
 http://github.com/forrestbradbury/MakerLab/archive/master.zip
