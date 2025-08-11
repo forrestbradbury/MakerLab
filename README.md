@@ -1,4 +1,12 @@
+**UPDATES:**
+**Since publishing these course materials, I've worked in collaboration with other teachers to extend and improve materials for supporting open inquiry labs.  Our collaborative work can be found here:  https://edusources.nl/materials/04566738-bd6f-49c6-a2d9-f64a3885394b**
+**And an article on design of open inquiry labs can be found here:  https://edusources.nl/materials/15cc57c2-f271-47e6-99b4-1e57de1c2af1**
+**And my own updated Maker Lab materials can be found here:  https://edusources.nl/materials/06a621ae-92d3-4cdc-a416-433bb372e116**
+
+**This GitHub repository contains the materials from the first course iteration, and will remain unchanged due to lack of time.  Thus anyone interested in the evolution of the course design and materials is directed to the links above.**
+
 # MakerLab
+
  course materials for supporting scientific open inquiries with sensors and microcontrollers
 
 This collection of materials supports open-inquiry physical science experiments in Bachelor's level lab courses.  Their open-source publication has been expedited because they serve as a model for pandemic-resilient science labs (https://arxiv.org/abs/2006.06881).  Most of the materials have been written as Jupyter Notebook documents and other text-based formats, lending themselves to further collaborative development, adaptation, and expansion within this git repository.  
